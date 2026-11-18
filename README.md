@@ -13,14 +13,7 @@
 
 A lightweight, CLI-based AI coding agent inspired by Claude Code, built in Python with OpenRouter API integration and autonomous file-system tool calling.
 
-> **Note:** This is an experimental hobby project. Always review file modifications before running the agent on critical directories.
-
-### 🛠️ Built With
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tech Stack" />
-  </a>
-</p>
+> **Note:** This is an experimental project. Always review file modifications before running the agent on important files.
 
 ## ✨ Features
 - **Autonomous Tool Calling:** Capable of inspecting directories, reading file contents, writing code, and executing Python scripts.
